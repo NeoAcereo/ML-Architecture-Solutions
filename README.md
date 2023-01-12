@@ -1,7 +1,3 @@
-# ML-Arichitecture-Solutions
-Different ML problems require different subtleties in the solution architecture.
-This will be a series where different ML architectures will be built for various problems.
-
-Episode 1
-
-Model created for classification of cusotmer churn using RandomForests
+# ML-Solutions
+Different ML problems require different subtleties in the solution.
+This will be a series where different ML architectures will be built for various problems.0
