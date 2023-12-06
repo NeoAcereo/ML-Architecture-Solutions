@@ -1,3 +1,3 @@
-[submodule "Used Car Price Prediction"]
-	path = Used Car Price Prediction
-	url = C:/Program Files/Git/Used Car Price Prediction/
+[submodule "Car Price"]
+	path = Car Price
+	url = ./Car Price/
