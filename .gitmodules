@@ -1,3 +1,6 @@
 [submodule "Car Price"]
 	path = Car Price
 	url = ./Car Price/
+[submodule "Restaurant-Review"]
+	path = Restaurant-Review
+	url = git@github.com:NeoAcereo/Restaurant-Review.git
